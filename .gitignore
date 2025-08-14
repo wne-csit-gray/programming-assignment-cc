@@ -1,0 +1,7 @@
+# DevContainer personal git configuration
+.devcontainer/git-config-custom.sh
+
+# Python cache directories
+__pycache__/
+*.py[cod]
+*$py.class
